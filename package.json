@@ -1,0 +1,17 @@
+{
+  "name": "knox",
+  "version": "1.0.0",
+  "description": "TEA Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "LARX",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.13.2"
+  }
+}
